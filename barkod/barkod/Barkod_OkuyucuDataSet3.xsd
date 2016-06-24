@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Barkod_OkuyucuDataSet3" targetNamespace="http://tempuri.org/Barkod_OkuyucuDataSet3.xsd" xmlns:mstns="http://tempuri.org/Barkod_OkuyucuDataSet3.xsd" xmlns="http://tempuri.org/Barkod_OkuyucuDataSet3.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="Barkod_OkuyucuConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="Barkod_OkuyucuConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.barkod.Properties.Settings.GlobalReference.Default.Barkod_OkuyucuConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="RaporTableAdapter" GeneratorDataComponentClassName="RaporTableAdapter" Name="Rapor" UserDataComponentName="RaporTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="Barkod_OkuyucuConnectionString (Settings)" DbObjectName="Barkod_Okuyucu.dbo.Rapor" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT fatura_no, tarih_saat, toplam_fiyat, adet, Barkod_no, urun_markasi, urun_adi, urun_ozellik, fiyati, kalan_stok FROM dbo.Rapor</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="fatura_no" DataSetColumn="fatura_no" />
+              <Mapping SourceColumn="tarih_saat" DataSetColumn="tarih_saat" />
+              <Mapping SourceColumn="toplam_fiyat" DataSetColumn="toplam_fiyat" />
+              <Mapping SourceColumn="adet" DataSetColumn="adet" />
+              <Mapping SourceColumn="Barkod_no" DataSetColumn="Barkod_no" />
+              <Mapping SourceColumn="urun_markasi" DataSetColumn="urun_markasi" />
+              <Mapping SourceColumn="urun_adi" DataSetColumn="urun_adi" />
+              <Mapping SourceColumn="urun_ozellik" DataSetColumn="urun_ozellik" />
+              <Mapping SourceColumn="fiyati" DataSetColumn="fiyati" />
+              <Mapping SourceColumn="kalan_stok" DataSetColumn="kalan_stok" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Barkod_OkuyucuDataSet3" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="Barkod_OkuyucuDataSet3" msprop:Generator_UserDSName="Barkod_OkuyucuDataSet3">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Rapor" msprop:Generator_TableClassName="RaporDataTable" msprop:Generator_TableVarName="tableRapor" msprop:Generator_TablePropName="Rapor" msprop:Generator_RowDeletingName="RaporRowDeleting" msprop:Generator_UserTableName="Rapor" msprop:Generator_RowChangingName="RaporRowChanging" msprop:Generator_RowEvHandlerName="RaporRowChangeEventHandler" msprop:Generator_RowDeletedName="RaporRowDeleted" msprop:Generator_RowEvArgName="RaporRowChangeEvent" msprop:Generator_RowChangedName="RaporRowChanged" msprop:Generator_RowClassName="RaporRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="fatura_no" msprop:Generator_ColumnVarNameInTable="columnfatura_no" msprop:Generator_ColumnPropNameInRow="fatura_no" msprop:Generator_ColumnPropNameInTable="fatura_noColumn" msprop:Generator_UserColumnName="fatura_no" type="xs:int" />
+              <xs:element name="tarih_saat" msprop:Generator_ColumnVarNameInTable="columntarih_saat" msprop:Generator_ColumnPropNameInRow="tarih_saat" msprop:Generator_ColumnPropNameInTable="tarih_saatColumn" msprop:Generator_UserColumnName="tarih_saat" type="xs:dateTime" />
+              <xs:element name="toplam_fiyat" msprop:Generator_ColumnVarNameInTable="columntoplam_fiyat" msprop:Generator_ColumnPropNameInRow="toplam_fiyat" msprop:Generator_ColumnPropNameInTable="toplam_fiyatColumn" msprop:Generator_UserColumnName="toplam_fiyat" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="adet" msprop:Generator_ColumnVarNameInTable="columnadet" msprop:Generator_ColumnPropNameInRow="adet" msprop:Generator_ColumnPropNameInTable="adetColumn" msprop:Generator_UserColumnName="adet" type="xs:int" minOccurs="0" />
+              <xs:element name="Barkod_no" msprop:Generator_ColumnVarNameInTable="columnBarkod_no" msprop:Generator_ColumnPropNameInRow="Barkod_no" msprop:Generator_ColumnPropNameInTable="Barkod_noColumn" msprop:Generator_UserColumnName="Barkod_no">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="urun_markasi" msprop:Generator_ColumnVarNameInTable="columnurun_markasi" msprop:Generator_ColumnPropNameInRow="urun_markasi" msprop:Generator_ColumnPropNameInTable="urun_markasiColumn" msprop:Generator_UserColumnName="urun_markasi" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="urun_adi" msprop:Generator_ColumnVarNameInTable="columnurun_adi" msprop:Generator_ColumnPropNameInRow="urun_adi" msprop:Generator_ColumnPropNameInTable="urun_adiColumn" msprop:Generator_UserColumnName="urun_adi" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="urun_ozellik" msprop:Generator_ColumnVarNameInTable="columnurun_ozellik" msprop:Generator_ColumnPropNameInRow="urun_ozellik" msprop:Generator_ColumnPropNameInTable="urun_ozellikColumn" msprop:Generator_UserColumnName="urun_ozellik" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="fiyati" msprop:Generator_ColumnVarNameInTable="columnfiyati" msprop:Generator_ColumnPropNameInRow="fiyati" msprop:Generator_ColumnPropNameInTable="fiyatiColumn" msprop:Generator_UserColumnName="fiyati" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="kalan_stok" msprop:Generator_ColumnVarNameInTable="columnkalan_stok" msprop:Generator_ColumnPropNameInRow="kalan_stok" msprop:Generator_ColumnPropNameInTable="kalan_stokColumn" msprop:Generator_UserColumnName="kalan_stok" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Rapor" />
+      <xs:field xpath="mstns:fatura_no" />
+      <xs:field xpath="mstns:Barkod_no" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

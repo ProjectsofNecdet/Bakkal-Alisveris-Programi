@@ -1,0 +1,51 @@
+C:\Users\Karsıyaka\Documents\Visual Studio 2010\Projects\barkod\barkod\bin\Debug\barkod.exe
+C:\Users\Karsıyaka\Documents\Visual Studio 2010\Projects\barkod\barkod\bin\Debug\barkod.pdb
+C:\Users\Karsıyaka\Documents\Visual Studio 2010\Projects\barkod\barkod\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Karsıyaka\Documents\Visual Studio 2010\Projects\barkod\barkod\obj\x86\Debug\barkod.Form1.resources
+C:\Users\Karsıyaka\Documents\Visual Studio 2010\Projects\barkod\barkod\obj\x86\Debug\barkod.Properties.Resources.resources
+C:\Users\Karsıyaka\Documents\Visual Studio 2010\Projects\barkod\barkod\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Karsıyaka\Documents\Visual Studio 2010\Projects\barkod\barkod\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Karsıyaka\Documents\Visual Studio 2010\Projects\barkod\barkod\obj\x86\Debug\barkod.exe
+C:\Users\Karsıyaka\Documents\Visual Studio 2010\Projects\barkod\barkod\obj\x86\Debug\barkod.pdb
+C:\Users\Karsıyaka\Documents\Visual Studio 2010\Projects\barkod\barkod\bin\Debug\barkod.exe.config
+C:\Users\Karsıyaka\Documents\Visual Studio 2010\Projects\barkod\barkod\obj\x86\Debug\barkod.Fatura.resources
+C:\Users\Karsıyaka\Documents\Visual Studio 2010\Projects\barkod\barkod\obj\x86\Debug\barkod.Satıs.resources
+C:\Users\Karsıyaka\Documents\Visual Studio 2010\Projects\barkod\barkod\obj\x86\Debug\barkod.Y_Satıslar.resources
+C:\Users\Karsıyaka\Documents\Visual Studio 2010\Projects\barkod\barkod\obj\x86\Debug\barkod.Giris.resources
+C:\Users\Karsıyaka\Documents\Visual Studio 2010\Projects\barkod\barkod\obj\x86\Debug\barkod.Hakkında.resources
+C:\Users\Karsıyaka\Documents\Visual Studio 2010\Projects\barkod\barkod\obj\x86\Debug\barkod.Raporlama.resources
+C:\Users\Karsıyaka\Documents\Visual Studio 2010\Projects\barkod\barkod\obj\x86\Debug\RdlCompile.cache
+C:\Users\Karsıyaka\Documents\Visual Studio 2010\Projects\barkod\barkod\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Karsıyaka\Desktop\Barkod\barkod\barkod\bin\Debug\barkod.exe.config
+C:\Users\Karsıyaka\Desktop\Barkod\barkod\barkod\obj\x86\Debug\barkod.exe
+C:\Users\Karsıyaka\Desktop\Barkod\barkod\barkod\obj\x86\Debug\barkod.pdb
+C:\Users\Karsıyaka\Desktop\Barkod\barkod\barkod\bin\Debug\barkod.exe
+C:\Users\Karsıyaka\Desktop\Barkod\barkod\barkod\bin\Debug\barkod.pdb
+C:\Users\Karsıyaka\Desktop\Barkod\barkod\barkod\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Karsıyaka\Desktop\Barkod\barkod\barkod\obj\x86\Debug\barkod.Fatura.resources
+C:\Users\Karsıyaka\Desktop\Barkod\barkod\barkod\obj\x86\Debug\barkod.Form1.resources
+C:\Users\Karsıyaka\Desktop\Barkod\barkod\barkod\obj\x86\Debug\barkod.Giris.resources
+C:\Users\Karsıyaka\Desktop\Barkod\barkod\barkod\obj\x86\Debug\barkod.Hakkında.resources
+C:\Users\Karsıyaka\Desktop\Barkod\barkod\barkod\obj\x86\Debug\barkod.Properties.Resources.resources
+C:\Users\Karsıyaka\Desktop\Barkod\barkod\barkod\obj\x86\Debug\barkod.Raporlama.resources
+C:\Users\Karsıyaka\Desktop\Barkod\barkod\barkod\obj\x86\Debug\barkod.Satıs.resources
+C:\Users\Karsıyaka\Desktop\Barkod\barkod\barkod\obj\x86\Debug\barkod.Y_Satıslar.resources
+C:\Users\Karsıyaka\Desktop\Barkod\barkod\barkod\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Karsıyaka\Desktop\Barkod\barkod\barkod\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Karsıyaka\Desktop\Barkod\barkod\barkod\obj\x86\Debug\RdlCompile.cache
+C:\Users\Karsıyaka\Desktop\Barkod\barkod\barkod\obj\x86\Debug\RdlCompile.compiled
+D:\Final Projesi\barkod\barkod\bin\Debug\barkod.exe.config
+D:\Final Projesi\barkod\barkod\obj\x86\Debug\barkod.exe
+D:\Final Projesi\barkod\barkod\obj\x86\Debug\barkod.pdb
+D:\Final Projesi\barkod\barkod\obj\x86\Debug\barkod.csprojResolveAssemblyReference.cache
+D:\Final Projesi\barkod\barkod\obj\x86\Debug\barkod.Fatura.resources
+D:\Final Projesi\barkod\barkod\obj\x86\Debug\barkod.Form1.resources
+D:\Final Projesi\barkod\barkod\obj\x86\Debug\barkod.Giris.resources
+D:\Final Projesi\barkod\barkod\obj\x86\Debug\barkod.Hakkında.resources
+D:\Final Projesi\barkod\barkod\obj\x86\Debug\barkod.Properties.Resources.resources
+D:\Final Projesi\barkod\barkod\obj\x86\Debug\barkod.Raporlama.resources
+D:\Final Projesi\barkod\barkod\obj\x86\Debug\barkod.Satıs.resources
+D:\Final Projesi\barkod\barkod\obj\x86\Debug\barkod.Y_Satıslar.resources
+D:\Final Projesi\barkod\barkod\obj\x86\Debug\barkod.csproj.GenerateResource.Cache
+D:\Final Projesi\barkod\barkod\obj\x86\Debug\RdlCompile.cache
+D:\Final Projesi\barkod\barkod\obj\x86\Debug\RdlCompile.compiled
